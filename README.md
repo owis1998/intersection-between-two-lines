@@ -9,7 +9,7 @@ algorithm steps:
 3 - choose the line Which have the greater slope, if the two lines are decreasing choose the one who decreasing fast.
 4 - sure that x1 of great line in domain of the other line.
 5 - if the equation of greater line satisfy:
-    f1(x2) > f2(x2)
+    f1(x2) > f2(x2), then there is an intersection
     f1 = greater line functon
     f2 = slower line function 
     
