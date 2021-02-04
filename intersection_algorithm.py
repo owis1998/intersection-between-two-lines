@@ -47,11 +47,3 @@ def find_intersection(line1, line2):
 				print('There is no intersection')
 		else:
 			print('There is no intersection')
-
-
-
-# put any value here
-line1 = Line((5,5),(6,3))
-line2 = Line((1,5),(4,0))
-
-find_intersection(line1, line2)
